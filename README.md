@@ -1,4 +1,4 @@
-
+# proyecto de encriptado de texto
 <p>
 El proyecto se baso en:
 </p>
@@ -11,6 +11,3 @@ El proyecto se baso en:
 - luego de maquetar nuesta pagina en javaScript programamos 2 botones  el primero para encriptar el texto y el segundo para desencriptarlo.
   
 - luego de realizarlo lo susubimos nuestro repositorio de githup para compartilo con tod ustdes.
-  
-
-###Fin
